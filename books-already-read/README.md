@@ -5,6 +5,8 @@ Here are the books I've read. Many of them were read in Portuguese, so the cover
 All the books are in alphanetical order.
 
 ## Books
+![1984](covers/1984.png)
+![O Código Da Vinci](covers/Codigo-da-Vinci.png)
 ![O Fim da Infância](covers/Fim-Da-Infancia.png)
 ![Quem Pensa Enriquece](covers/Quem-Pensa-Enriquece.png)
 ![A Sabedoria da Transformação](covers/Sabedoria-Da-Transformacao.png)
@@ -12,6 +14,8 @@ All the books are in alphanetical order.
 ![Zen para Distraídos](covers/Zen-Para-Distraidos.png)
 
 ## List
+- 1984 :: George Orwell;
+- O Código Da Vinci :: Dan Brown;
 - O Fim da Infância :: Arhur C. Clarke;
 - Quem Pensa Enriquece :: Napoleon Hill;
 - A Sabedoria da Transformação :: Monja Coen;
