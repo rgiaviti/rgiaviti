@@ -8,6 +8,8 @@ All the books are in alphanetical order.
 ![1984](covers/1984.png)
 ![Anjos e Demônios](covers/Anjos_e_Demonios.png)
 ![O Código Da Vinci](covers/Codigo-da-Vinci.png)
+![Core Java Server Faces](covers/Core-Java-Server-Faces.png)
+![Desenvolvimento Web Ágil com Rails](covers/Desenvolvimento-Web-Agil-Rails.png)
 ![O Fim da Infância](covers/Fim-Da-Infancia.png)
 ![Java - Como Programar - 6ª Edição](covers/Java-Como-Programar-6-Edicao.png)
 ![Quem Pensa Enriquece](covers/Quem-Pensa-Enriquece.png)
@@ -22,6 +24,8 @@ All the books are in alphanetical order.
 | 1984 | George Orwell |
 | Anjos e Demônios | Dan Brown |
 | O Código Da Vinci | Dan Brown |
+| Core Java Server Faces | David Geary e Cay Horstmann |
+| Desenvolvimento Web Ágil com Rails | David Heinemeier Hansson e Dave Thomas |
 | O Fim da Infância | Arhur C. Clarke |
 | Java - Como Programar | H. M. Deitel |
 | Quem Pensa Enriquece | Napoleon Hill |
