@@ -4,6 +4,7 @@ Here are the books I've read. Many of them were read in Portuguese, so the cover
 
 All the books are in alphanetical order.
 
+
 ## Books
 ![1984](covers/1984.png)
 ![Anjos e Demônios](covers/Anjos_e_Demonios.png)
@@ -17,9 +18,12 @@ All the books are in alphanetical order.
 ![Quem Pensa Enriquece](covers/Quem-Pensa-Enriquece.png)
 ![A Sabedoria da Transformação](covers/Sabedoria-Da-Transformacao.png)
 ![O Símbolo Perdido](covers/Simbolo-Perdido.png)
+![Só Não É Rico Quem Não Quer](covers/So-Nao-E-Rico-Quem-Nao-Quer.png)
 ![Técnicas de Conversação para Principiantes](covers/Tecnicas-Conversacao-Para-Principiantes.png)
+![The Witcher - O Último Desejo](covers/The-Witcher-O-Ultimo-Desejo.png)
 ![O Universos em uma Casca de Noz](covers/Universo-Em-Uma-Casca-de-Noz.png)
 ![Zen para Distraídos](covers/Zen-Para-Distraidos.png)
+
 
 ## List
 | Title | Author |
@@ -36,6 +40,8 @@ All the books are in alphanetical order.
 | Quem Pensa Enriquece | Napoleon Hill |
 | A Sabedoria da Transformação | Monja Coen |
 | O Símbolo Perdido | Dan Brown |
+| Só Não É Rico Quem Não Quer | Marcelo Veiga |
 | Técnicas de Conversação para Principiantes | Steve Allen |
+| The Witcher - O Último Desejo | Andrzej Sapkowski |
 | O Universo em uma Casca de Noz | Stephen Hawking |
 | Zen Para Distraídos | Nilo Cruz e Monja Coen |
