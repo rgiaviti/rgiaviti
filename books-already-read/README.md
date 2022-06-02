@@ -2,7 +2,7 @@
 
 Here are the books I've read. Many of them were read in Portuguese, so the covers are in Portuguese. As I read more books, I will update this page.
 
-All the books are in alphanetical order.
+All the books are in alphabetical order.
 
 
 ## Books
