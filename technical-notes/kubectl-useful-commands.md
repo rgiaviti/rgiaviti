@@ -6,5 +6,5 @@ $ kubectl get pods -n dev
 Apply a Resource
 
 ```bash
-$ kubectl apply -f <path>/configMap.yaml
+$ kubectl apply -f "<path>/configMap.yaml"
 ```
