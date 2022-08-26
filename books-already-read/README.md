@@ -4,10 +4,9 @@ Here are the books I've read. Many of them were read in Portuguese, so the cover
 
 All the books are in alphabetical order.
 
-
 ## Books
 ![1984](covers/1984.png)
-![Anjos e Demônios](covers/Anjos_e_Demonios.png)
+![Anjos e Demônios](covers/Anjos-e-Demonios.png)
 ![O Código Da Vinci](covers/Codigo-da-Vinci.png)
 ![Aprenda VB.NET em 21 Dias](covers/Aprenda-VB.NET-em-21-dias.png)
 ![Core Java Server Faces](covers/Core-Java-Server-Faces.png)
@@ -16,9 +15,11 @@ All the books are in alphabetical order.
 ![Inferno](covers/Inferno.png)
 ![Java - Como Programar - 6ª Edição](covers/Java-Como-Programar-6-Edicao.png)
 ![Quem Pensa Enriquece](covers/Quem-Pensa-Enriquece.png)
+![O Monge e o Executivo](covers/O-Monge-e-o-Executivo.png)
 ![A Sabedoria da Transformação](covers/Sabedoria-Da-Transformacao.png)
 ![O Símbolo Perdido](covers/Simbolo-Perdido.png)
 ![Só Não É Rico Quem Não Quer](covers/So-Nao-E-Rico-Quem-Nao-Quer.png)
+![Sua Vida em Movimento](covers/Sua-Vida-Em-Movimento.png)
 ![Técnicas de Conversação para Principiantes](covers/Tecnicas-Conversacao-Para-Principiantes.png)
 ![The Witcher - O Último Desejo](covers/The-Witcher-O-Ultimo-Desejo.png)
 ![O Universos em uma Casca de Noz](covers/Universo-Em-Uma-Casca-de-Noz.png)
@@ -38,9 +39,11 @@ All the books are in alphabetical order.
 | Inferno | Dan Brown |
 | Java - Como Programar | H. M. Deitel |
 | Quem Pensa Enriquece | Napoleon Hill |
+| O Monge e o Executivo | James C. Hunter |
 | A Sabedoria da Transformação | Monja Coen |
 | O Símbolo Perdido | Dan Brown |
 | Só Não É Rico Quem Não Quer | Marcelo Veiga |
+| Sua Vida em Movimento | Márcio Atalla |
 | Técnicas de Conversação para Principiantes | Steve Allen |
 | The Witcher - O Último Desejo | Andrzej Sapkowski |
 | O Universo em uma Casca de Noz | Stephen Hawking |
