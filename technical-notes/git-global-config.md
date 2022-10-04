@@ -13,3 +13,17 @@ $ git config --global merge.tool meld
 ```bash
 $ git config --global http.sslVerify "false"
 ```
+
+## Error - Filename too long (Windows)
+
+There are two ways to solve this. Error `Filename too long`.
+
+```bash
+$ git config core.longpaths true
+```
+
+Or, on `git clone...`
+
+```bash
+$ git clone -c core.longpaths=true 
+```
