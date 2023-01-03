@@ -5,6 +5,7 @@ Here are the books I've read. Many of them were read in Portuguese, so the cover
 All the books are in alphabetical order.
 
 ## Books
+![101 Perguntas e Respostas para Investidores Iniciantes](covers/101-Perguntas-E-Respostas-Investidores-Iniciantes.jpg)
 ![1984](covers/1984.png)
 ![Anjos e Demônios](covers/Anjos-e-Demonios.png)
 ![O Código Da Vinci](covers/Codigo-da-Vinci.png)
@@ -29,6 +30,7 @@ All the books are in alphabetical order.
 ## List
 | Title | Author |
 | ----- | ------ |
+| 101 Perguntas e Respostas para Investidores Iniciantes | Tiago Reis e Felipe Tadewald |
 | 1984 | George Orwell |
 | Anjos e Demônios | Dan Brown |
 | O Código Da Vinci | Dan Brown |
