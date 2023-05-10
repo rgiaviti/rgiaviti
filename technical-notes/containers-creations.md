@@ -61,7 +61,7 @@ $ podman run --name phpmyadmin --net pd.local -d --link mysql:db -p 7500:80 dock
 
 ```bash
 $ podman volume create postgres_volume
-$ podman run --name postgres --net pd.local -d -p 5432:5432 v "postgres_volume:/var/lib/postgresql/data" -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root docker.io/postgres:latest
+$ podman run --name postgres --net pd.local -d -p 5432:5432 -v "postgres_volume:/var/lib/postgresql/data" -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root docker.io/postgres:latest
 ```
 
 ## SonarQube
