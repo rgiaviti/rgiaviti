@@ -2,7 +2,7 @@
 
 ## Podman or Docker installation
 
-- **Podman**: [https://podman.io/getting-started/installation](https://podman.io/docs/installation)
+- **Podman**: [https://podman.io/docs/installation](https://podman.io/docs/installation)
 - Docker: https://docs.docker.com/engine/install/ubuntu/
 
 ## Create Network
