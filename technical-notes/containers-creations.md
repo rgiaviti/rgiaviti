@@ -16,8 +16,8 @@ podman network create -d bridge "pd.local"
 ## MongoDB
 
 ```bash
-podman volume create "mongodata_volume"
-podman volume create "mongoconfig_volume"
+podman volume create "mongo_data_volume"
+podman volume create "mongo_config_volume"
 ```
 
 ```bash
