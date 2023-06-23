@@ -86,6 +86,8 @@ LocalStack supports a growing number of AWS services, like AWS Lambda, S3, Dynam
 podman volume create "localstack_volume"
 ```
 
+AWS Cli examples: https://github.com/rgiaviti/rgiaviti/blob/main/technical-notes/aws-cli-examples.md
+
 ```bash
 podman run --name "localstack" --net "pd.local" -d -p 4566:4566 -v "localstack_volume:/var/lib/localstack" -e AWS_DEFAULT_REGION=sa-east-1 -e AWS_SECRET_ACCESS_KEY=DUMMY -e AWS_ACCESS_KEY_ID=DUMMY -e EDGE_PORT=4566 -e SERVICES="kinesis, dynamodb, sns, sqs" "docker.io/localstack/localstack:latest"
 ```
