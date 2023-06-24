@@ -1,3 +1,4 @@
+```Dockerfile
 FROM python:3-alpine
 WORKDIR /app
 
@@ -12,3 +13,4 @@ COPY . .
 RUN ["python3", "--version"]
 
 ENTRYPOINT [ "python3", "main.py"]
+```
