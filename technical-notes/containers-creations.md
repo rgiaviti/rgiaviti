@@ -59,13 +59,13 @@ podman volume create "mariadb_volume"
 ```
 
 ```bash
-podman run --name "mariadb" --net "pd.local" -d -p 3306:3306 -v "mariadb_volume:/var/lib/mysql" -e MARIADB_USER=root -e MARIADB_PASSWORD=local_pass -e MARIADB_ROOT_PASSWORD=root "docker.io/mariadb:latest"
+podman run --name "mariadb" --net "pd.local" -d -p 3306:3306 -v "mariadb_volume:/var/lib/mysql" -h "mariadb.host" -e MARIADB_USER=root -e MARIADB_PASSWORD=local_pass -e MARIADB_ROOT_PASSWORD=root "docker.io/mariadb:latest"
 ```
 
 ## PHPMyAdmin
 
 ```bash
-podman run --name "phpmyadmin" --net "pd.local" -d -p 8080:80 -e PMA_HOST=localhost -e PMA_PORT=3306 "docker.io/phpmyadmin:latest"
+podman run --name "phpmyadmin" --net "pd.local" -d -p 8080:80 -e PMA_ARBITRARY=1 "docker.io/phpmyadmin:latest"
 ```
 
 ## PostgreSQL
