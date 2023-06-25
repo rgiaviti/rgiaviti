@@ -62,6 +62,12 @@ podman volume create "mariadb_volume"
 podman run --name "mariadb" --net "pd.local" -d -p 3306:3306 -v "mariadb_volume:/var/lib/mysql" -e MARIADB_USER=root -e MARIADB_PASSWORD=local_pass -e MARIADB_ROOT_PASSWORD=root "docker.io/mariadb:latest"
 ```
 
+## PHPMyAdmin
+
+```bash
+podman run --name "phpmyadmin" --net "pd.local" -d -p 8080:80 -e PMA_HOST=localhost -e PMA_PORT=3306 "docker.io/phpmyadmin:latest"
+```
+
 ## PostgreSQL
 
 PostgreSQL, also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance. It was originally named POSTGRES, referring to its origins as a successor to the Ingres database developed at the University of California, Berkeley. In 1996, the project was renamed to PostgreSQL to reflect its support for SQL. After a review in 2007, the development team decided to keep the name PostgreSQL and the alias Postgres.
