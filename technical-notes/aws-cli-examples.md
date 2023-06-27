@@ -30,6 +30,12 @@ Default output format [None]: json
 aws --profile=<profile_name> --endpoint http://<host/ip>:4566 sqs create-queue --queue-name <queue_name>
 ```
 
+## Listing SQS Queues
+
+```bash
+aws --profile=<profile_name> --endpoint http://<host>:4566 sqs list-queues
+```
+
 Creating SQS with attribute FIFO
 
 ```bash
