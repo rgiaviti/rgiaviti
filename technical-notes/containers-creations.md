@@ -80,6 +80,12 @@ podman volume create "postgres_volume"
 podman run --name "postgres" --net "pd.local" -d -p 5432:5432 -v "postgres_volume:/var/lib/postgresql/data" -e POSTGRES_USER=root -e POSTGRES_PASSWORD=root "docker.io/postgres:latest"
 ```
 
+## PGAdmin
+
+```bash
+podman run --name "pgadmin" --net "pd.local" -d -p 9000:80 -e PGADMIN_DEFAULT_EMAIL="email@example.com" -e PGADMIN_DEFAULT_PASSWORD="root" "docker.io/dpage/pgadmin4:latest"
+```
+
 ## Localstack
 
 LocalStack is a cloud service emulator that runs in a single container on your laptop or in your CI environment. With LocalStack, you can run your AWS applications or Lambdas entirely on your local machine without connecting to a remote cloud provider!
