@@ -45,7 +45,7 @@ aws --profile=<profile_name> --endpoint http://<host/ip>:4566 sqs create-queue -
 ## Creating Dynamo table
 
 ```bash
-aws --profile olimpus --endpoint http://<host or ip>:4566 dynamodb create-table \
+aws --profile <profile_name> --endpoint http://<host or ip>:4566 dynamodb create-table \
 --table-name <name> \
 --attribute-definitions AttributeName=<attr_name>,AttributeType=S AttributeName=<attr_name>,AttributeType=S \
 --key-schema AttributeName=<attr_name>,KeyType=HASH AttributeName=<attr_name>,KeyType=RANGE \
