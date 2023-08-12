@@ -5,7 +5,7 @@
 spring:
   data:
     mongodb:
-      database: cop
+      database: dbname
       host: 127.0.0.1
       port: 27017
       username: root
