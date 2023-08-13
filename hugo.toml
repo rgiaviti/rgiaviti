@@ -1,0 +1,103 @@
+baseURL = 'https://rgiaviti.github.io'
+languageCode = 'en-us'
+title = 'Ricardo Giaviti'
+theme = 'mainroad'
+enableGitInfo = true
+enableRobotsTXT = true
+Paginate = 6
+
+[Author]
+  name = "Ricardo Giaviti"
+  bio = "I'm a software developer who thrives on crafting elegant code and unraveling the intricacies of many programming languages. With a rich history in diverse companies, my blog dives into not only coding techniques but also the mindset of perpetual learning and collaborative development."
+  avatar = "img/profile.jpg"
+
+[Params]
+  description = "Personal website, blog and technical notes" # Site description. Used in meta description
+  copyright = "Ricardo Giaviti" # Footer copyright holder, otherwise will use site title
+  opengraph = true # Enable OpenGraph if true
+  schema = true # Enable Schema
+  twitter_cards = true # Enable Twitter Cards if true
+  readmore = false # Show "Read more" button in list if true
+  authorbox = true # Show authorbox at bottom of pages if true
+  toc = true # Enable Table of Contents
+  pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
+  post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  mainSections = ["blog"] # Specify section pages to show on home page and the "Recent articles" widget
+  dateformat = "2006-01-02" # Change the format of dates
+  #mathjax = true # Enable MathJax
+  #mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js" # Specify MathJax path
+  #mathjaxConfig = "TeX-AMS-MML_HTMLorMML" # Specify MathJax config
+  googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  #customCSS = ["css/custom.css"] # Include custom CSS files
+  #customJS = ["js/custom.js"] # Include custom JS files
+
+[Params.logo]
+  #image = "img/placeholder.png" # Logo image. Path relative to "static"
+  title = "Ricardo Giaviti" # Logo title, otherwise will use site title
+  subtitle = "Personal website, blog and technical notes" # Logo subtitle
+
+[Params.sidebar]
+  home = "right" # Configure layout for home page
+  list = "left"  # Configure layout for list pages
+  single = false # Configure layout for single pages
+  # Enable widgets in given order
+  widgets = ["search", "recent", "categories", "taglist", "social", "languages"]
+
+[Params.widgets.social]
+  cached = false # activate cache if true
+  # Enable parts of social widget
+  #facebook = "username"
+  twitter = "rgiaviti"
+  #instagram = "username"
+  linkedin = "username"
+  #telegram = "username"
+  github = "rgiaviti"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #email = "example@example.com"
+
+[Params.widgets.search]
+  cached = false # activate cache if true
+  url = "https://google.com/search"
+  [Params.widgets.search.input]
+    name = "sitesearch"
+    pre = ""
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Books"
+    url = "/already_read_books/"
+    weight = 2
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = true
+    noHl = false
+    style = 'dracula'
+    tabWidth = 2
