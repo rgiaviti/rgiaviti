@@ -4,7 +4,7 @@ I'm a **software developer** with a focus on backend services, microservices, in
 
 I have a passion for **experimenting with new technologies** and consider myself an early adopter. Currently, I'm working as a **Full Stack Developer** handling backend services, front-end development with React and Typescript, infrastructure on AWS using Terraform, and CI/CD with Jenkins and GitHub Actions.
 
-## 🪄 **Coding Enthusiast** 🧙‍♂️
+## **Coding Enthusiast** 🧙‍♂️
 
 Coding is my craft, and I love diving into the technical details to build innovative solutions. I'm always on the lookout for opportunities to apply my coding skills to create better digital experiences.
 
